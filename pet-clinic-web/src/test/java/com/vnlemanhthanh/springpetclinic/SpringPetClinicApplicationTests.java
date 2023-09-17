@@ -1,13 +1,17 @@
+/*
+ * Copyright (c) 2023. vnlemanhthanh.com
+ */
+
 package com.vnlemanhthanh.springpetclinic;
 
 import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringPetClinicApplicationTests {
+public class SpringPetClinicApplicationTests {
 
     @Test
-    void contextLoads() {
+    public void contextLoads() {
     }
 
 }
