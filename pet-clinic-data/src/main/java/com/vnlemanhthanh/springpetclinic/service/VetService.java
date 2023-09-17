@@ -8,7 +8,7 @@ import com.vnlemanhthanh.springpetclinic.model.Vet;
 
 import java.util.Set;
 
-public interface VetService {
+public interface VetService  {
 
     Vet findById(Long id);
 
