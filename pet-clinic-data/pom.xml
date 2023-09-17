@@ -8,7 +8,7 @@
     <parent>
         <groupId>com.vnlemanhthanh</groupId>
         <artifactId>spring-pet-clinic</artifactId>
-        <version>0.0.2-SNAPSHOT</version>
+        <version>0.0.5-SNAPSHOT</version>
     </parent>
 
     <artifactId>pet-clinic-data</artifactId>
