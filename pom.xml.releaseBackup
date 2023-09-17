@@ -9,7 +9,7 @@
     </parent>
     <groupId>com.vnlemanhthanh</groupId>
     <artifactId>spring-pet-clinic</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>spring-pet-clinic</name>
     <description>spring-pet-clinic</description>
@@ -45,7 +45,6 @@
         <developerConnection>
             scm:git:git@github.com:vnlemanhthanh/spring-pet-clinic.git
         </developerConnection>
-    <tag>spring-pet-clinic-0.0.1</tag>
   </scm>
 
 </project>
