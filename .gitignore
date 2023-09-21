@@ -139,3 +139,5 @@ Desktop.ini
 # ESLint
 ######################
 .eslintcache
+######################
+/pet-clinic-web/src/main/resources/static/resources/css/
